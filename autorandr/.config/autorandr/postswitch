@@ -1,0 +1,4 @@
+#!/bin/sh
+/home/gnm/.fehbg &
+polybar external &
+
